@@ -39,4 +39,4 @@ This repository is a course workspace for teaching and learning practical uses o
 5. Revise and document decisions in your project `README.md`.
 6. Finish with `quiz.md` and a short reflection.
 
-https://notebooklm.google.com/notebook/a5743215-344a-4998-bc19-69f81020c332
+課程資料整合以及個人筆記知識庫: https://notebooklm.google.com/notebook/a5743215-344a-4998-bc19-69f81020c332
