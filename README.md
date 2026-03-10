@@ -38,3 +38,5 @@ This repository is a course workspace for teaching and learning practical uses o
 4. Run critique with `agents/dataviz_critic.md`.
 5. Revise and document decisions in your project `README.md`.
 6. Finish with `quiz.md` and a short reflection.
+
+https://notebooklm.google.com/notebook/a5743215-344a-4998-bc19-69f81020c332
